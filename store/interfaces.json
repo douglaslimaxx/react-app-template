@@ -1,5 +1,8 @@
 {
   "greeting": {
     "component": "Greeting"
+  },
+  "last-visited": {
+    "component": "LastVisited"
   }
 }

@@ -4,7 +4,7 @@ import React from 'react'
 //   name: string
 // }
 
-function Greeting() {
+const Greeting = () => {
   return <div>Hello</div>
 }
 
